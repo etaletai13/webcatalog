@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Ninchat supporttisivusto](README.md)
-* [Help](help/README.md)
+* [Getting started](help/README.md)
   * [Alasivu](help/alasivu.md)
   * [Toinen alasivu](help/toinen-alasivu.md)
-* [API](api.md)
-* [FAQ](faq.md)
-* [Changelog](changelog.md)
-* [Blank](blank.md)
+* [Organisaation hallinta](api.md)
+* [Asiakaspalvelujonot](faq.md)
+* [Ryhmächatit](blank.md)
+* [Ninchat API](changelog.md)
 

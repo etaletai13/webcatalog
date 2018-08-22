@@ -1,4 +1,4 @@
-# Help
+# Getting started
 
 ## Getting Super Powers
 
