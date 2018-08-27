@@ -1,6 +1,4 @@
-# Table of contents
+# Summary
 
-* [111Ninchat supporttisivusto](README.md)
-* [222Getting started](help/README.md)
-  * [333Alasivu](help/alasivu.md)
-  * [444Toinen alasivu](help/toinen-alasivu.md)
+* [Introduction](README.md)
+* [First Chapter](chapter1.md)
